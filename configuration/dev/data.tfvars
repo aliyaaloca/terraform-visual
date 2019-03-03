@@ -1,0 +1,5 @@
+ami                  = "ami-02a39bdb8e8ee056a"
+instance_type        = "t2.micro"
+keyname              = "test-key"
+Name                 = "Consul"
+subnet_id            = "subnet-3c3f4b74"
