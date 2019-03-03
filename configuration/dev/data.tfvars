@@ -7,3 +7,5 @@ Env                  = "Dev"
 Created_by           = "Aliya"
 Dept                 = "IT"
 count                = 1
+min_size             = 3
+max_size             = 6     

@@ -16,6 +16,10 @@ variable "Created_by" {}
 
 variable "count" {}
 
+variable "min_size" {}
+
+variable "max_size" {}
+
 
 
 
